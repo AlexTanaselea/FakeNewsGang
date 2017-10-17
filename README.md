@@ -16,7 +16,7 @@ Requirements analisis[gang-only for now]: https://docs.google.com/document/d/1nB
 
 Diagrams:
 
-#1 FakeNews OnlinePart Use Case:  https://creately.com/diagram/j8vll6qp/uN04xgk31sBQVCDM1IVGBqlXEb4= 
+#1 FakeNews OnlinePart Use Case:  https://creately.com/diagram/j8vll6qp/3uBNOFgCBslUnAoSzl11oIGdyN0%3D  
 
 #2 FakeNews OnlinePart Class Case: https://creately.com/diagram/j8vrc3me1/y26go2hUeEfzwP30LzLak99DE%3D
 
