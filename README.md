@@ -26,4 +26,6 @@ Diagrams:
 
 #5 FakeNews OnlinePart Sequence Diagram2 (show user credibility): https://creately.com/diagram/j8vjhg792/KPf5CpIgVIsqzF4phXJn6Z6cs%3D
 
+#6 Fake News Offline Use Case Diagram: https://creately.com/diagram/j8vxrhi42/WsgDNycr4zcEw35enmRwOqxX2I%3D
+
 ...[to be completed with the rest of them, having the same type of name]
