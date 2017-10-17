@@ -18,6 +18,12 @@ Diagrams:
 
 #1 FakeNews OnlinePart Use Case:  https://creately.com/diagram/j8vll6qp/uN04xgk31sBQVCDM1IVGBqlXEb4= 
 
-#2 FakeNews OnlinePart Class Case: https://creately.com/diagram/j8vrc3me1/y26go2hUeEfzwP30LzLak99DE%3D 
+#2 FakeNews OnlinePart Class Case: https://creately.com/diagram/j8vrc3me1/y26go2hUeEfzwP30LzLak99DE%3D
+
+#3 FakeNews Component Diagram: https://creately.com/diagram/j8vjhg791/8SKUoWnWe3ogY7X2VB5Xc15eDWo%3D
+
+#4 FakeNews OnlinePart Sequence Diagram1 (login): https://creately.com/diagram/j8viy21k1/7lx6WdP5GdfXeAM88Nb2wgIyY%3D
+
+#5 FakeNews OnlinePart Sequence Diagram2 (show user credibility): https://creately.com/diagram/j8vjhg792/KPf5CpIgVIsqzF4phXJn6Z6cs%3D
 
 ...[to be completed with the rest of them, having the same type of name]
