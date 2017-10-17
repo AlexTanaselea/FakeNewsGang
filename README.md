@@ -20,4 +20,4 @@ Diagrams:
 
 #2 FakeNews OnlinePart Class Case: https://creately.com/diagram/j8vrc3me1/y26go2hUeEfzwP30LzLak99DE%3D 
 
-...[to be completed with the rest of them, having the same typar of name]
+...[to be completed with the rest of them, having the same type of name]
