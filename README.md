@@ -13,3 +13,6 @@ State-of-the-art: https://docs.google.com/document/d/e/2PACX-1vTqCjrCamGjUj9sZ75
 Week 3[gang-only for now]:
 
 https://docs.google.com/document/d/1U70Pc1Ccah7hFj85v8vY4tgpuTIrOt9BMuoYVR-Z_oQ/edit
+
+Package diagram: http://i66.tinypic.com/2czkuq.jpg
+Activity diagram: http://i68.tinypic.com/2v7z7tc.jpg
