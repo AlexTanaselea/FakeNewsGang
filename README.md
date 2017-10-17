@@ -15,7 +15,9 @@ Week 3:
 Requirements analisis: ....
 
 Diagrams:
+
 #1 FakeNews OnlinePart Use Case:  https://creately.com/diagram/j8vll6qp/uN04xgk31sBQVCDM1IVGBqlXEb4= 
+
 #2 FakeNews OnlinePart Class Case: https://creately.com/diagram/j8vrc3me1/y26go2hUeEfzwP30LzLak99DE%3D 
 
 ...[to be completed with the rest of them, having the same typar of name]
