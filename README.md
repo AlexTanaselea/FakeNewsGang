@@ -12,7 +12,7 @@ State-of-the-art: https://docs.google.com/document/d/e/2PACX-1vTqCjrCamGjUj9sZ75
 
 Week 3:
 
-Requirements analisis: ....
+Requirements analisis[gang-only for now]: https://docs.google.com/document/d/1nBk5gmFBpNA9qbh96oXPsFXEV7WYMv3jpA9twPBOqok/edit#heading=h.n8jd31klopd6 
 
 Diagrams:
 
